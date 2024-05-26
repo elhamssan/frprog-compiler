@@ -53,3 +53,9 @@ This will create a file named `resultat_lexer.txt` with the tokens generated fro
     python parser.py
 
 The parser will read the tokens from `resultat_lexer.txt` and check for syntax errors. If parsing is successful, it will print **"Parsing completed successfully."** Otherwise, it will print **"Parsing failed due to syntax errors."**
+
+### Group Members
+* Hassan AIT MOUSSA
+* Soufiane ABOUALAM
+* Yasser BENHADDA
+* Mohamed Amine ELIDRISSI
