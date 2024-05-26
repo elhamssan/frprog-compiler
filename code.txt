@@ -1,0 +1,13 @@
+# First comment
+entier xXX
+xXX = 5
+afficher("La valeur de xXX est ", xXX)
+si xXX > 5 alors
+    afficher("x est plus grand que 5")
+# test
+sinon
+    afficher("x n'est pas plus grand que 5")
+finSi
+pour i de 1 jsq 5 pas 1
+    afficher(i)
+finPour
